@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 const e = require('express');
-const api = '6351b23a688e4031b53abe40952f94fe';
+const api = '';
 const headers = {
     "Content-Type": "application/json",
     "api-key": api
